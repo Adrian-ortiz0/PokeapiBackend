@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeapiBackend", "PokeapiBackend\PokeapiBackend.csproj", "{4ED225D3-CD16-4B02-BBA7-58B1D4569C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeapiDomain", "PokeapiDomain\PokeapiDomain.csproj", "{BCCC3CC4-34DA-4BA7-B4B2-DF8C5459A54E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeapiInfraestructure", "PokeapiInfraestructure\PokeapiInfraestructure.csproj", "{9ABA051D-2C01-4582-856A-6DB31B3086D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeapiApplication", "PokeapiApplication\PokeapiApplication.csproj", "{9C651B23-7E59-440C-87D2-AE605BE05880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED225D3-CD16-4B02-BBA7-58B1D4569C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED225D3-CD16-4B02-BBA7-58B1D4569C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED225D3-CD16-4B02-BBA7-58B1D4569C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED225D3-CD16-4B02-BBA7-58B1D4569C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCC3CC4-34DA-4BA7-B4B2-DF8C5459A54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCC3CC4-34DA-4BA7-B4B2-DF8C5459A54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCC3CC4-34DA-4BA7-B4B2-DF8C5459A54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCC3CC4-34DA-4BA7-B4B2-DF8C5459A54E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABA051D-2C01-4582-856A-6DB31B3086D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABA051D-2C01-4582-856A-6DB31B3086D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABA051D-2C01-4582-856A-6DB31B3086D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABA051D-2C01-4582-856A-6DB31B3086D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C651B23-7E59-440C-87D2-AE605BE05880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C651B23-7E59-440C-87D2-AE605BE05880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C651B23-7E59-440C-87D2-AE605BE05880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C651B23-7E59-440C-87D2-AE605BE05880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {283A9D00-F4D6-4FA2-B14A-17CC24A5397C}
+	EndGlobalSection
+EndGlobal
